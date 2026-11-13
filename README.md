@@ -1,16 +1,21 @@
-## Hi there 👋
+# Cyber Kurd
 
-<!--
-**CyberKurd/CyberKurd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Kurd is an ethical cybersecurity team. We publish cybersecurity content and share practical knowledge to help people learn about digital safety in a responsible and informed way.
 
-Here are some ideas to get you started:
+## About Us
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cyber Kurd is a cybersecurity-focused team committed to ethical learning, digital safety, and public education. We share content through our official channels to help people better understand cybersecurity, responsible online behavior, and safe digital practices.
+
+## Our Ethical Approach
+
+We support authorized security work, responsible learning, and digital safety. We believe cybersecurity knowledge should be used to protect systems, improve awareness, and support safer online environments. We do not support unauthorized access, harmful activity, or misuse of technology.
+
+## Our Content and Projects
+
+We publish cybersecurity content across our official accounts and aim to make important security topics easier to understand. We focus on ethical awareness, education, and responsible digital safety practices.
+
+## Official Accounts
+
+- GitHub: https://github.com/CyberKurd
+- TikTok: https://www.tiktok.com/@cyber_kurd
+- YouTube: https://www.youtube.com/@Cyber_Kurd
